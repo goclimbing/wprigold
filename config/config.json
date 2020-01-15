@@ -1,0 +1,16 @@
+{
+  "theme": {
+    "slug": "new-rig",
+    "name": "New Rig",
+    "author": "Doug La Farge"
+  },
+
+    "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "wp-rig.local",
+      "bypassPort": "8181",
+      "https": false
+    }
+  }
+}
